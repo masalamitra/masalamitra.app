@@ -1,0 +1,1 @@
+// InstallPrompt.jsx placeholder

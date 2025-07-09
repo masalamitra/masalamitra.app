@@ -1,0 +1,1 @@
+// ChatBotWidget.jsx placeholder
